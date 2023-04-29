@@ -1,0 +1,15 @@
+C:\Users\User 1\Desktop\MCPD103\GenericList\GenericListOrnek4\bin\Debug\net6.0\GenericListOrnek4.exe
+C:\Users\User 1\Desktop\MCPD103\GenericList\GenericListOrnek4\bin\Debug\net6.0\GenericListOrnek4.deps.json
+C:\Users\User 1\Desktop\MCPD103\GenericList\GenericListOrnek4\bin\Debug\net6.0\GenericListOrnek4.runtimeconfig.json
+C:\Users\User 1\Desktop\MCPD103\GenericList\GenericListOrnek4\bin\Debug\net6.0\GenericListOrnek4.dll
+C:\Users\User 1\Desktop\MCPD103\GenericList\GenericListOrnek4\bin\Debug\net6.0\GenericListOrnek4.pdb
+C:\Users\User 1\Desktop\MCPD103\GenericList\GenericListOrnek4\obj\Debug\net6.0\GenericListOrnek4.csproj.AssemblyReference.cache
+C:\Users\User 1\Desktop\MCPD103\GenericList\GenericListOrnek4\obj\Debug\net6.0\GenericListOrnek4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\Desktop\MCPD103\GenericList\GenericListOrnek4\obj\Debug\net6.0\GenericListOrnek4.AssemblyInfoInputs.cache
+C:\Users\User 1\Desktop\MCPD103\GenericList\GenericListOrnek4\obj\Debug\net6.0\GenericListOrnek4.AssemblyInfo.cs
+C:\Users\User 1\Desktop\MCPD103\GenericList\GenericListOrnek4\obj\Debug\net6.0\GenericListOrnek4.csproj.CoreCompileInputs.cache
+C:\Users\User 1\Desktop\MCPD103\GenericList\GenericListOrnek4\obj\Debug\net6.0\GenericListOrnek4.dll
+C:\Users\User 1\Desktop\MCPD103\GenericList\GenericListOrnek4\obj\Debug\net6.0\refint\GenericListOrnek4.dll
+C:\Users\User 1\Desktop\MCPD103\GenericList\GenericListOrnek4\obj\Debug\net6.0\GenericListOrnek4.pdb
+C:\Users\User 1\Desktop\MCPD103\GenericList\GenericListOrnek4\obj\Debug\net6.0\GenericListOrnek4.genruntimeconfig.cache
+C:\Users\User 1\Desktop\MCPD103\GenericList\GenericListOrnek4\obj\Debug\net6.0\ref\GenericListOrnek4.dll
