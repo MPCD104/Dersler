@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "R89dVTCS/jqNItCWOfpter4v2x1mXH0Vn/pZbl5PEzBWT8Vhmwpg3bslLnCw7JtRr9NHi00g9tx61Z/rsaHuQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User 1\\Desktop\\MCPD103\\GenericListDers3\\Ornek4\\Ornek4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User 1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\User 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\User 1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\User 1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
