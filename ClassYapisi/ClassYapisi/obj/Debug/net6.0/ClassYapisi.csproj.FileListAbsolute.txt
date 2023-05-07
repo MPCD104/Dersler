@@ -1,0 +1,15 @@
+C:\Users\User 1\Desktop\MCPD103\ClassYapisi\ClassYapisi\bin\Debug\net6.0\ClassYapisi.exe
+C:\Users\User 1\Desktop\MCPD103\ClassYapisi\ClassYapisi\bin\Debug\net6.0\ClassYapisi.deps.json
+C:\Users\User 1\Desktop\MCPD103\ClassYapisi\ClassYapisi\bin\Debug\net6.0\ClassYapisi.runtimeconfig.json
+C:\Users\User 1\Desktop\MCPD103\ClassYapisi\ClassYapisi\bin\Debug\net6.0\ClassYapisi.dll
+C:\Users\User 1\Desktop\MCPD103\ClassYapisi\ClassYapisi\bin\Debug\net6.0\ClassYapisi.pdb
+C:\Users\User 1\Desktop\MCPD103\ClassYapisi\ClassYapisi\obj\Debug\net6.0\ClassYapisi.csproj.AssemblyReference.cache
+C:\Users\User 1\Desktop\MCPD103\ClassYapisi\ClassYapisi\obj\Debug\net6.0\ClassYapisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\Desktop\MCPD103\ClassYapisi\ClassYapisi\obj\Debug\net6.0\ClassYapisi.AssemblyInfoInputs.cache
+C:\Users\User 1\Desktop\MCPD103\ClassYapisi\ClassYapisi\obj\Debug\net6.0\ClassYapisi.AssemblyInfo.cs
+C:\Users\User 1\Desktop\MCPD103\ClassYapisi\ClassYapisi\obj\Debug\net6.0\ClassYapisi.csproj.CoreCompileInputs.cache
+C:\Users\User 1\Desktop\MCPD103\ClassYapisi\ClassYapisi\obj\Debug\net6.0\ClassYapisi.dll
+C:\Users\User 1\Desktop\MCPD103\ClassYapisi\ClassYapisi\obj\Debug\net6.0\refint\ClassYapisi.dll
+C:\Users\User 1\Desktop\MCPD103\ClassYapisi\ClassYapisi\obj\Debug\net6.0\ClassYapisi.pdb
+C:\Users\User 1\Desktop\MCPD103\ClassYapisi\ClassYapisi\obj\Debug\net6.0\ClassYapisi.genruntimeconfig.cache
+C:\Users\User 1\Desktop\MCPD103\ClassYapisi\ClassYapisi\obj\Debug\net6.0\ref\ClassYapisi.dll
