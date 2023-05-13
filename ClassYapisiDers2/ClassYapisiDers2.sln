@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassYapisiDers2", "ClassYapisiDers2\ClassYapisiDers2.csproj", "{163F13AA-3C38-4F03-AFCA-90BBE9F8A6C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek2", "Ornek2\Ornek2.csproj", "{1B432C50-4F81-4FFE-BAFA-7BEC72B1E44E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{163F13AA-3C38-4F03-AFCA-90BBE9F8A6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163F13AA-3C38-4F03-AFCA-90BBE9F8A6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163F13AA-3C38-4F03-AFCA-90BBE9F8A6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163F13AA-3C38-4F03-AFCA-90BBE9F8A6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B432C50-4F81-4FFE-BAFA-7BEC72B1E44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B432C50-4F81-4FFE-BAFA-7BEC72B1E44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B432C50-4F81-4FFE-BAFA-7BEC72B1E44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B432C50-4F81-4FFE-BAFA-7BEC72B1E44E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFE97012-C4C1-4B5C-A11F-85C6E68CF29E}
+	EndGlobalSection
+EndGlobal
