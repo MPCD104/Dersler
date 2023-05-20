@@ -1,0 +1,15 @@
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\ClassSinemaBiletApp\ClassSinemaBiletApp\bin\Debug\net6.0\ClassSinemaBiletApp.exe
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\ClassSinemaBiletApp\ClassSinemaBiletApp\bin\Debug\net6.0\ClassSinemaBiletApp.deps.json
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\ClassSinemaBiletApp\ClassSinemaBiletApp\bin\Debug\net6.0\ClassSinemaBiletApp.runtimeconfig.json
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\ClassSinemaBiletApp\ClassSinemaBiletApp\bin\Debug\net6.0\ClassSinemaBiletApp.dll
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\ClassSinemaBiletApp\ClassSinemaBiletApp\bin\Debug\net6.0\ClassSinemaBiletApp.pdb
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\ClassSinemaBiletApp\ClassSinemaBiletApp\obj\Debug\net6.0\ClassSinemaBiletApp.csproj.AssemblyReference.cache
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\ClassSinemaBiletApp\ClassSinemaBiletApp\obj\Debug\net6.0\ClassSinemaBiletApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\ClassSinemaBiletApp\ClassSinemaBiletApp\obj\Debug\net6.0\ClassSinemaBiletApp.AssemblyInfoInputs.cache
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\ClassSinemaBiletApp\ClassSinemaBiletApp\obj\Debug\net6.0\ClassSinemaBiletApp.AssemblyInfo.cs
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\ClassSinemaBiletApp\ClassSinemaBiletApp\obj\Debug\net6.0\ClassSinemaBiletApp.csproj.CoreCompileInputs.cache
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\ClassSinemaBiletApp\ClassSinemaBiletApp\obj\Debug\net6.0\ClassSinemaBiletApp.dll
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\ClassSinemaBiletApp\ClassSinemaBiletApp\obj\Debug\net6.0\refint\ClassSinemaBiletApp.dll
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\ClassSinemaBiletApp\ClassSinemaBiletApp\obj\Debug\net6.0\ClassSinemaBiletApp.pdb
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\ClassSinemaBiletApp\ClassSinemaBiletApp\obj\Debug\net6.0\ClassSinemaBiletApp.genruntimeconfig.cache
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\ClassSinemaBiletApp\ClassSinemaBiletApp\obj\Debug\net6.0\ref\ClassSinemaBiletApp.dll
