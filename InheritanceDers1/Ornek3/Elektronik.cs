@@ -10,7 +10,7 @@ namespace Ornek3
     {
         public int Fiyat { get; set; }
         public string Marka { get; set; }
-        private bool Durum { get; set; }
+        bool Durum { get; set; }
         public void AcKapa()
         {
             if (Durum)
@@ -27,6 +27,13 @@ namespace Ornek3
             return Durum;
         }
 
+        public void Ac() 
+        {
+            if (!AcikMi())
+            {
+                AcKapa();
+            }
+        }
 
     }
 }

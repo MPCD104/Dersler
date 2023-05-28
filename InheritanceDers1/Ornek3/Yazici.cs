@@ -15,10 +15,7 @@ namespace Ornek3
 
         private void IslemYap(string islemMesaji)
         {
-            if (!AcikMi())
-            {
-                AcKapa();
-            }
+            Ac();
             Console.WriteLine(islemMesaji);
         }
         public void Tara()

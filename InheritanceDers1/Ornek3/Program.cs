@@ -1,6 +1,8 @@
 ﻿
-Random zafer = new Random();
-Console.WriteLine(zafer.Next(0,2));
+using Ornek3;
+
+//Random zafer = new Random();
+//Console.WriteLine(zafer.Next(0,2));
 
 //**Elektronik Cihaz**
 //Fiyat
@@ -33,3 +35,11 @@ Console.WriteLine(zafer.Next(0,2));
 
 //Indir metodu olsun kaç mb veri indirecekse o bilgiyi alsın.
 //Kablosuz hızına göre saniyede o kadar mb veri düşsün
+
+Modem modem = new Modem();
+modem.Marka = "TP-Link";
+modem.FiberVarMi = true;
+modem.UcGVarMi = true;
+modem.KablosuzHizi = 4;
+modem.Indir(120);   
+Console.ReadLine();

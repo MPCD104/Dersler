@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceDers1", "InheritanceDers1\InheritanceDers1.csproj", "{21EA7C8A-61E2-4296-B450-83A4A193D047}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceDers1", "InheritanceDers1\InheritanceDers1.csproj", "{21EA7C8A-61E2-4296-B450-83A4A193D047}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek1", "Ornek1\Ornek1.csproj", "{7DCE8F79-A61F-41FB-BEE6-EB8774073D75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ornek1", "Ornek1\Ornek1.csproj", "{7DCE8F79-A61F-41FB-BEE6-EB8774073D75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek2", "Ornek2\Ornek2.csproj", "{6A7A4A0D-0544-4191-BD87-766979599257}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ornek2", "Ornek2\Ornek2.csproj", "{6A7A4A0D-0544-4191-BD87-766979599257}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek3", "Ornek3\Ornek3.csproj", "{A86681CE-FAC6-44B2-BA9D-6EE53589904B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ornek3", "Ornek3\Ornek3.csproj", "{A86681CE-FAC6-44B2-BA9D-6EE53589904B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek4", "Ornek4\Ornek4.csproj", "{90BE66EF-9A6E-49E3-BFB3-57B8A6FBF41A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaceler", "Interfaceler\Interfaceler.csproj", "{26620504-534B-4A49-ACF6-528F00E49F94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{A86681CE-FAC6-44B2-BA9D-6EE53589904B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A86681CE-FAC6-44B2-BA9D-6EE53589904B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A86681CE-FAC6-44B2-BA9D-6EE53589904B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90BE66EF-9A6E-49E3-BFB3-57B8A6FBF41A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BE66EF-9A6E-49E3-BFB3-57B8A6FBF41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BE66EF-9A6E-49E3-BFB3-57B8A6FBF41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BE66EF-9A6E-49E3-BFB3-57B8A6FBF41A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26620504-534B-4A49-ACF6-528F00E49F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26620504-534B-4A49-ACF6-528F00E49F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26620504-534B-4A49-ACF6-528F00E49F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26620504-534B-4A49-ACF6-528F00E49F94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
