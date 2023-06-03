@@ -1,0 +1,15 @@
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\Interfaceler\CargoApp\bin\Debug\net6.0\CargoApp.exe
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\Interfaceler\CargoApp\bin\Debug\net6.0\CargoApp.deps.json
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\Interfaceler\CargoApp\bin\Debug\net6.0\CargoApp.runtimeconfig.json
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\Interfaceler\CargoApp\bin\Debug\net6.0\CargoApp.dll
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\Interfaceler\CargoApp\bin\Debug\net6.0\CargoApp.pdb
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\Interfaceler\CargoApp\obj\Debug\net6.0\CargoApp.csproj.AssemblyReference.cache
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\Interfaceler\CargoApp\obj\Debug\net6.0\CargoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\Interfaceler\CargoApp\obj\Debug\net6.0\CargoApp.AssemblyInfoInputs.cache
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\Interfaceler\CargoApp\obj\Debug\net6.0\CargoApp.AssemblyInfo.cs
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\Interfaceler\CargoApp\obj\Debug\net6.0\CargoApp.csproj.CoreCompileInputs.cache
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\Interfaceler\CargoApp\obj\Debug\net6.0\CargoApp.dll
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\Interfaceler\CargoApp\obj\Debug\net6.0\refint\CargoApp.dll
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\Interfaceler\CargoApp\obj\Debug\net6.0\CargoApp.pdb
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\Interfaceler\CargoApp\obj\Debug\net6.0\CargoApp.genruntimeconfig.cache
+C:\Users\User 1\Desktop\MCPD104 HSS\GitHub\Dersler\Interfaceler\CargoApp\obj\Debug\net6.0\ref\CargoApp.dll
