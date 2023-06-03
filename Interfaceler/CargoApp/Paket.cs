@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CargoApp
+﻿namespace CargoApp
 {
     public class Paket
     {
@@ -17,20 +11,17 @@ namespace CargoApp
         {
             get
             {
-                if (PaketBoyutu == PaketBoyutu.Kucuk)
-                {
-                    return KargoFirmasi.PaketFiyati * PaketBoyutu.Kucuk.GetHashCode();
-                }
-                else if (PaketBoyutu == PaketBoyutu.Orta)
-                {
-                    return KargoFirmasi.PaketFiyati * PaketBoyutu.Orta.GetHashCode();
-                }
-                else
-                {
-                    //PaketBoyutu PackageSize = (PaketBoyutu)3;
-                    //PaketFiyati = KargoFirmasi.PaketFiyati * (int)PaketBoyutu.Buyuk;
 
-                    return KargoFirmasi.PaketFiyati * PaketBoyutu.Buyuk.GetHashCode();
+                switch (PaketBoyutu)
+                {
+                    case PaketBoyutu.Kucuk:
+                        return KargoFirmasi.PaketFiyati * PaketBoyutu.Kucuk.GetHashCode();
+                    case PaketBoyutu.Orta:
+                        return KargoFirmasi.PaketFiyati * PaketBoyutu.Orta.GetHashCode();
+                    default:
+                        //PaketBoyutu PackageSize = (PaketBoyutu)3;
+                        //PaketFiyati = KargoFirmasi.PaketFiyati * (int)PaketBoyutu.Buyuk;
+                        return KargoFirmasi.PaketFiyati * PaketBoyutu.Buyuk.GetHashCode();
                 }
             }
         }
