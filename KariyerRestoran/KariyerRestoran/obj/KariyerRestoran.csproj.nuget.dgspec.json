@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emreb\\Desktop\\KariyerRestoran\\KariyerRestoran\\KariyerRestoran.csproj": {}
+    "C:\\Users\\user\\Documents\\MCPD104HSS\\Dersler\\KariyerRestoran\\KariyerRestoran\\KariyerRestoran.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emreb\\Desktop\\KariyerRestoran\\KariyerRestoran\\KariyerRestoran.csproj": {
+    "C:\\Users\\user\\Documents\\MCPD104HSS\\Dersler\\KariyerRestoran\\KariyerRestoran\\KariyerRestoran.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emreb\\Desktop\\KariyerRestoran\\KariyerRestoran\\KariyerRestoran.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\MCPD104HSS\\Dersler\\KariyerRestoran\\KariyerRestoran\\KariyerRestoran.csproj",
         "projectName": "KariyerRestoran",
-        "projectPath": "C:\\Users\\emreb\\Desktop\\KariyerRestoran\\KariyerRestoran\\KariyerRestoran.csproj",
-        "packagesPath": "C:\\Users\\emreb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emreb\\Desktop\\KariyerRestoran\\KariyerRestoran\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\MCPD104HSS\\Dersler\\KariyerRestoran\\KariyerRestoran\\KariyerRestoran.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\MCPD104HSS\\Dersler\\KariyerRestoran\\KariyerRestoran\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\emreb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
