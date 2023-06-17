@@ -1,0 +1,17 @@
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\bin\Debug\net6.0-windows\KariyerRestoran.exe
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\bin\Debug\net6.0-windows\KariyerRestoran.deps.json
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\bin\Debug\net6.0-windows\KariyerRestoran.runtimeconfig.json
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\bin\Debug\net6.0-windows\KariyerRestoran.dll
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\bin\Debug\net6.0-windows\KariyerRestoran.pdb
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\KariyerRestoran.csproj.AssemblyReference.cache
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\KariyerRestoran.Form1.resources
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\KariyerRestoran.csproj.GenerateResource.cache
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\KariyerRestoran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\KariyerRestoran.AssemblyInfoInputs.cache
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\KariyerRestoran.AssemblyInfo.cs
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\KariyerRestoran.csproj.CoreCompileInputs.cache
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\KariyerRestoran.dll
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\refint\KariyerRestoran.dll
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\KariyerRestoran.pdb
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\KariyerRestoran.genruntimeconfig.cache
+C:\Users\Bora Seyrek\source\repos\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\ref\KariyerRestoran.dll
