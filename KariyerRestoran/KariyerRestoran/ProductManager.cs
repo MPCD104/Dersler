@@ -19,7 +19,6 @@ namespace KariyerRestoran
         public void AddProduct(Product product)
         {
             Products.Add(product);
-
         }
 
         public void DeleteProduct(Product product)

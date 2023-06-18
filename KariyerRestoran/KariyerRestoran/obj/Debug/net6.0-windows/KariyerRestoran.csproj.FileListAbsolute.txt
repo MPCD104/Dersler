@@ -32,3 +32,4 @@ C:\Users\user\Documents\MCPD104HSS\Dersler\KariyerRestoran\KariyerRestoran\obj\D
 C:\Users\user\Documents\MCPD104HSS\Dersler\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\KariyerRestoran.pdb
 C:\Users\user\Documents\MCPD104HSS\Dersler\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\KariyerRestoran.genruntimeconfig.cache
 C:\Users\user\Documents\MCPD104HSS\Dersler\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\ref\KariyerRestoran.dll
+C:\Users\user\Documents\MCPD104HSS\Dersler\KariyerRestoran\KariyerRestoran\obj\Debug\net6.0-windows\KariyerRestoran.SiparisEkle.resources

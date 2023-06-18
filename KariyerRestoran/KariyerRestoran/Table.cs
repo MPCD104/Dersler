@@ -12,7 +12,7 @@ namespace KariyerRestoran
         {
             Order = new List<Order>();
         }
-
+        public string Id { get; set; }
         public string Name { get; set; }
         public Color Color { get; set; }
         public bool IsActive { get; set; }

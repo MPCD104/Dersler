@@ -2,15 +2,17 @@ namespace KariyerRestoran
 {
     public partial class Form1 : Form
     {
-        ProductManager productManager = new ProductManager();
+        ProductManager productManager;
         List<Table> tables = new List<Table>();
         public Form1()
         {
             InitializeComponent();
+            productManager = new ProductManager();
             for (int i = 1; i < 13; i++)
             {
                 Table table = new Table();
                 table.Name = "Masa " + i;
+                table.Id = "btnMasa" + i;
                 tables.Add(table);
             }
         }
@@ -52,11 +54,12 @@ namespace KariyerRestoran
 
         private void tpMenu_Click(object sender, EventArgs e)
         {
-            FillProductsDataGridView();
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            FillProductsDataGridView();
         }
 
         private void dgvMenu_SelectionChanged(object sender, EventArgs e)
@@ -74,7 +77,7 @@ namespace KariyerRestoran
         private void btnMasa_Click(object sender, EventArgs e)
         {
             Button btn = (Button)sender;
-            Table? activeTable = tables.FirstOrDefault(x => x.Name == btn.Text);
+            Table? activeTable = tables.FirstOrDefault(x => x.Id == btn.Name);
             if (activeTable == null)
             {
                 MessageBox.Show("Masa bulunamadý");
@@ -89,7 +92,7 @@ namespace KariyerRestoran
                     Button oldActiveTableButton = FindTable(oldActiveTable.Name);
                     oldActiveTableButton.BackColor = oldActiveTable.Color;
                 }
-            } 
+            }
             //if (oldActiveTable.TableTaken())
             //{
             //    oldActiveTable.Color = Color.Red;
@@ -105,16 +108,24 @@ namespace KariyerRestoran
             lblTableNo.Text = btn.Text;
         }
 
-        private Button? FindTable(string tableName) 
+        private Button? FindTable(string tableName)
         {
             foreach (Control control in tpMasa.Controls)
             {
-                if (control is Button && control.Text.Contains(tableName))
+                if (control is Button && control.Text == tableName)
                 {
                     return (Button)control;
                 }
             }
             return null;
+        }
+
+        private void btnAddtoCart_Click(object sender, EventArgs e)
+        {
+            SiparisEkle siparisEkle = new SiparisEkle();
+            siparisEkle.productManager = productManager;
+            siparisEkle.Show();
+
         }
     }
 }
