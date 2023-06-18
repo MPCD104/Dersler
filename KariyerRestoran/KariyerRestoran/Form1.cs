@@ -124,6 +124,7 @@ namespace KariyerRestoran
         {
             SiparisEkle siparisEkle = new SiparisEkle();
             siparisEkle.productManager = productManager;
+            siparisEkle.tables = tables;
             siparisEkle.Show();
 
         }

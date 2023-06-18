@@ -53,15 +53,15 @@
             lblTableNo = new Label();
             lblMasaNo = new Label();
             lblToplamFiyat = new Label();
-            btnMasa12 = new Button();
-            btnMasa11 = new Button();
             btnMasa10 = new Button();
-            btnMasa9 = new Button();
-            btnMasa8 = new Button();
+            btnMasa11 = new Button();
+            btnMasa12 = new Button();
             btnMasa7 = new Button();
-            btnMasa6 = new Button();
-            btnMasa5 = new Button();
+            btnMasa8 = new Button();
+            btnMasa9 = new Button();
             btnMasa4 = new Button();
+            btnMasa5 = new Button();
+            btnMasa6 = new Button();
             btnMasa3 = new Button();
             btnMasa2 = new Button();
             btnMasa1 = new Button();
@@ -233,15 +233,15 @@
             tpMasa.Controls.Add(lblTableNo);
             tpMasa.Controls.Add(lblMasaNo);
             tpMasa.Controls.Add(lblToplamFiyat);
-            tpMasa.Controls.Add(btnMasa12);
-            tpMasa.Controls.Add(btnMasa11);
             tpMasa.Controls.Add(btnMasa10);
-            tpMasa.Controls.Add(btnMasa9);
-            tpMasa.Controls.Add(btnMasa8);
+            tpMasa.Controls.Add(btnMasa11);
+            tpMasa.Controls.Add(btnMasa12);
             tpMasa.Controls.Add(btnMasa7);
-            tpMasa.Controls.Add(btnMasa6);
-            tpMasa.Controls.Add(btnMasa5);
+            tpMasa.Controls.Add(btnMasa8);
+            tpMasa.Controls.Add(btnMasa9);
             tpMasa.Controls.Add(btnMasa4);
+            tpMasa.Controls.Add(btnMasa5);
+            tpMasa.Controls.Add(btnMasa6);
             tpMasa.Controls.Add(btnMasa3);
             tpMasa.Controls.Add(btnMasa2);
             tpMasa.Controls.Add(btnMasa1);
@@ -324,16 +324,16 @@
             lblToplamFiyat.TabIndex = 12;
             lblToplamFiyat.Text = "Toplam Fiyat";
             // 
-            // btnMasa12
+            // btnMasa10
             // 
-            btnMasa12.BackColor = Color.Green;
-            btnMasa12.Location = new Point(8, 312);
-            btnMasa12.Name = "btnMasa12";
-            btnMasa12.Size = new Size(124, 97);
-            btnMasa12.TabIndex = 11;
-            btnMasa12.Text = "Masa 10";
-            btnMasa12.UseVisualStyleBackColor = false;
-            btnMasa12.Click += btnMasa_Click;
+            btnMasa10.BackColor = Color.Green;
+            btnMasa10.Location = new Point(8, 312);
+            btnMasa10.Name = "btnMasa10";
+            btnMasa10.Size = new Size(124, 97);
+            btnMasa10.TabIndex = 11;
+            btnMasa10.Text = "Masa 10";
+            btnMasa10.UseVisualStyleBackColor = false;
+            btnMasa10.Click += btnMasa_Click;
             // 
             // btnMasa11
             // 
@@ -346,27 +346,27 @@
             btnMasa11.UseVisualStyleBackColor = false;
             btnMasa11.Click += btnMasa_Click;
             // 
-            // btnMasa10
+            // btnMasa12
             // 
-            btnMasa10.BackColor = Color.Green;
-            btnMasa10.Location = new Point(268, 312);
-            btnMasa10.Name = "btnMasa10";
-            btnMasa10.Size = new Size(124, 97);
-            btnMasa10.TabIndex = 9;
-            btnMasa10.Text = "Masa 12";
-            btnMasa10.UseVisualStyleBackColor = false;
-            btnMasa10.Click += btnMasa_Click;
+            btnMasa12.BackColor = Color.Green;
+            btnMasa12.Location = new Point(268, 312);
+            btnMasa12.Name = "btnMasa12";
+            btnMasa12.Size = new Size(124, 97);
+            btnMasa12.TabIndex = 9;
+            btnMasa12.Text = "Masa 12";
+            btnMasa12.UseVisualStyleBackColor = false;
+            btnMasa12.Click += btnMasa_Click;
             // 
-            // btnMasa9
+            // btnMasa7
             // 
-            btnMasa9.BackColor = Color.Green;
-            btnMasa9.Location = new Point(8, 209);
-            btnMasa9.Name = "btnMasa9";
-            btnMasa9.Size = new Size(124, 97);
-            btnMasa9.TabIndex = 8;
-            btnMasa9.Text = "Masa 7";
-            btnMasa9.UseVisualStyleBackColor = false;
-            btnMasa9.Click += btnMasa_Click;
+            btnMasa7.BackColor = Color.Green;
+            btnMasa7.Location = new Point(8, 209);
+            btnMasa7.Name = "btnMasa7";
+            btnMasa7.Size = new Size(124, 97);
+            btnMasa7.TabIndex = 8;
+            btnMasa7.Text = "Masa 7";
+            btnMasa7.UseVisualStyleBackColor = false;
+            btnMasa7.Click += btnMasa_Click;
             // 
             // btnMasa8
             // 
@@ -379,27 +379,27 @@
             btnMasa8.UseVisualStyleBackColor = false;
             btnMasa8.Click += btnMasa_Click;
             // 
-            // btnMasa7
+            // btnMasa9
             // 
-            btnMasa7.BackColor = Color.Green;
-            btnMasa7.Location = new Point(268, 209);
-            btnMasa7.Name = "btnMasa7";
-            btnMasa7.Size = new Size(124, 97);
-            btnMasa7.TabIndex = 6;
-            btnMasa7.Text = "Masa 9";
-            btnMasa7.UseVisualStyleBackColor = false;
-            btnMasa7.Click += btnMasa_Click;
+            btnMasa9.BackColor = Color.Green;
+            btnMasa9.Location = new Point(268, 209);
+            btnMasa9.Name = "btnMasa9";
+            btnMasa9.Size = new Size(124, 97);
+            btnMasa9.TabIndex = 6;
+            btnMasa9.Text = "Masa 9";
+            btnMasa9.UseVisualStyleBackColor = false;
+            btnMasa9.Click += btnMasa_Click;
             // 
-            // btnMasa6
+            // btnMasa4
             // 
-            btnMasa6.BackColor = Color.Green;
-            btnMasa6.Location = new Point(8, 106);
-            btnMasa6.Name = "btnMasa6";
-            btnMasa6.Size = new Size(124, 97);
-            btnMasa6.TabIndex = 5;
-            btnMasa6.Text = "Masa 4";
-            btnMasa6.UseVisualStyleBackColor = false;
-            btnMasa6.Click += btnMasa_Click;
+            btnMasa4.BackColor = Color.Green;
+            btnMasa4.Location = new Point(8, 106);
+            btnMasa4.Name = "btnMasa4";
+            btnMasa4.Size = new Size(124, 97);
+            btnMasa4.TabIndex = 5;
+            btnMasa4.Text = "Masa 4";
+            btnMasa4.UseVisualStyleBackColor = false;
+            btnMasa4.Click += btnMasa_Click;
             // 
             // btnMasa5
             // 
@@ -412,16 +412,16 @@
             btnMasa5.UseVisualStyleBackColor = false;
             btnMasa5.Click += btnMasa_Click;
             // 
-            // btnMasa4
+            // btnMasa6
             // 
-            btnMasa4.BackColor = Color.Green;
-            btnMasa4.Location = new Point(268, 106);
-            btnMasa4.Name = "btnMasa4";
-            btnMasa4.Size = new Size(124, 97);
-            btnMasa4.TabIndex = 3;
-            btnMasa4.Text = "Masa 6";
-            btnMasa4.UseVisualStyleBackColor = false;
-            btnMasa4.Click += btnMasa_Click;
+            btnMasa6.BackColor = Color.Green;
+            btnMasa6.Location = new Point(268, 106);
+            btnMasa6.Name = "btnMasa6";
+            btnMasa6.Size = new Size(124, 97);
+            btnMasa6.TabIndex = 3;
+            btnMasa6.Text = "Masa 6";
+            btnMasa6.UseVisualStyleBackColor = false;
+            btnMasa6.Click += btnMasa_Click;
             // 
             // btnMasa3
             // 
@@ -493,15 +493,15 @@
         private Label lblTableNo;
         private Label lblMasaNo;
         private Label lblToplamFiyat;
-        private Button btnMasa12;
-        private Button btnMasa11;
         private Button btnMasa10;
-        private Button btnMasa9;
-        private Button btnMasa8;
+        private Button btnMasa11;
+        private Button btnMasa12;
         private Button btnMasa7;
-        private Button btnMasa6;
-        private Button btnMasa5;
+        private Button btnMasa8;
+        private Button btnMasa9;
         private Button btnMasa4;
+        private Button btnMasa5;
+        private Button btnMasa6;
         private Button btnMasa3;
         private Button btnMasa2;
         private Button btnMasa1;

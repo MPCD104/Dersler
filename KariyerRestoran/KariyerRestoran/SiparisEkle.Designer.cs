@@ -34,7 +34,6 @@
             lblCount = new Label();
             btnSiparisEkle = new Button();
             lblTableNo = new Label();
-            lblMasaNo = new Label();
             ((System.ComponentModel.ISupportInitialize)txtCount).BeginInit();
             SuspendLayout();
             // 
@@ -45,7 +44,6 @@
             cmbProduct.Name = "cmbProduct";
             cmbProduct.Size = new Size(121, 23);
             cmbProduct.TabIndex = 0;
-            cmbProduct.SelectedIndexChanged += cmbProduct_SelectedIndexChanged;
             // 
             // lblProduct
             // 
@@ -87,21 +85,11 @@
             lblTableNo.AutoSize = true;
             lblTableNo.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point);
             lblTableNo.ForeColor = Color.Red;
-            lblTableNo.Location = new Point(161, 23);
+            lblTableNo.Location = new Point(99, 9);
             lblTableNo.Name = "lblTableNo";
             lblTableNo.Size = new Size(28, 32);
             lblTableNo.TabIndex = 16;
             lblTableNo.Text = "1";
-            // 
-            // lblMasaNo
-            // 
-            lblMasaNo.AutoSize = true;
-            lblMasaNo.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point);
-            lblMasaNo.Location = new Point(12, 23);
-            lblMasaNo.Name = "lblMasaNo";
-            lblMasaNo.Size = new Size(109, 32);
-            lblMasaNo.TabIndex = 15;
-            lblMasaNo.Text = "Masa No";
             // 
             // SiparisEkle
             // 
@@ -109,7 +97,6 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(245, 186);
             Controls.Add(lblTableNo);
-            Controls.Add(lblMasaNo);
             Controls.Add(btnSiparisEkle);
             Controls.Add(lblCount);
             Controls.Add(txtCount);
@@ -131,6 +118,5 @@
         private Label lblCount;
         private Button btnSiparisEkle;
         private Label lblTableNo;
-        private Label lblMasaNo;
     }
 }
