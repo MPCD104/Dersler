@@ -19,6 +19,7 @@
                     order.Count = Convert.ToInt32(txtCount.Value);
                     order.Product = (Product)cmbProduct.SelectedItem;
                     table.Order.Add(order);
+                    
                 }
             }
         } 

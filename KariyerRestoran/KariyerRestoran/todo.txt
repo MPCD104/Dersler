@@ -1,0 +1,10 @@
+1.siparis ekle sayfası kapandıgında secili masanın siparisleri
+gozuksun.
+2.yeni siparis eklediginde aynı ürün varsa adet artsın.
+3.menü sayfasında aynı id ye sahip ürün olmasın.
+4.siparislerden ürün cıkarılsın(lborders tan secilen ürün güncellensin)
+5.fiyat string girilemesin.
+6.masa taşıma
+7.masa birleştirme
+8.ödeme al (ödeme alınınca masa bosalıcak.)
+9.menustrip ekle gün sonu toplam cıkarıcak.

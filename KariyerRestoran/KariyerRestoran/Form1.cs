@@ -76,11 +76,13 @@ namespace KariyerRestoran
 
         private void btnMasa_Click(object sender, EventArgs e)
         {
+
             Button btn = (Button)sender;
             Table? activeTable = tables.FirstOrDefault(x => x.Id == btn.Name);
             if (activeTable == null)
             {
                 MessageBox.Show("Masa bulunamadý");
+                return;
             }
             #region Önceden seçilmiþ masanýn rengini deðiþtirme
             foreach (Table oldActiveTable in tables)
@@ -106,6 +108,16 @@ namespace KariyerRestoran
             activeTable.Color = Color.Yellow;
             btn.BackColor = Color.Yellow;
             lblTableNo.Text = btn.Text;
+            lbOrders.Items.Clear();
+            decimal totalprice = 0;
+            foreach (Order order in activeTable.Order)
+            {
+                string orderDescription = $"Ürün Adi :{order.Product.Name} // Adet : {order.Count}";
+                totalprice += order.Product.Price * order.Count;
+                lbOrders.Items.Add(orderDescription);
+
+            }
+            lblTotalPrice.Text = totalprice.ToString();
         }
 
         private Button? FindTable(string tableName)
