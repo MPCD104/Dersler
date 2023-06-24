@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ajax Example</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>Ajax Example</h1>
+
+    <button id="getDataButton">Get Data</button>
+
+    <div id="result"></div>
+
+    <h1>Kullanıcı Listesi</h1>
+    <ul id="userList">  
+    </ul>
+
+    <script>
+        $(document).ready(function() {
+            $("#getDataButton").click(function() {
+                $.ajax({
+                    url: "http://localhost:5063/api/Users",
+                    type: "GET",
+                    success: function(datas) {
+                        datas.forEach(function (user) {
+                            var listItem = document.createElement("li");
+                            listItem.innerHTML = "Kullanıcı Adı: " + user.username + ", ID: " + user.id;
+                            userList.appendChild(listItem);
+                        });
+
+                    },
+                    error: function(xhr, status, error) {
+                        console.log(error);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

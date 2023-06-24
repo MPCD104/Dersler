@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KariyerAkademi.WebApi", "KariyerAkademi.WebApi\KariyerAkademi.WebApi.csproj", "{32CB4160-A907-485B-9AA5-504DFF0F2F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frontend", "Frontend\Frontend.csproj", "{74F2D37C-3B4B-48E4-8994-FED482414214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32CB4160-A907-485B-9AA5-504DFF0F2F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CB4160-A907-485B-9AA5-504DFF0F2F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CB4160-A907-485B-9AA5-504DFF0F2F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CB4160-A907-485B-9AA5-504DFF0F2F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F2D37C-3B4B-48E4-8994-FED482414214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F2D37C-3B4B-48E4-8994-FED482414214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F2D37C-3B4B-48E4-8994-FED482414214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F2D37C-3B4B-48E4-8994-FED482414214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {811928E4-CE91-4754-93A8-B618D499F518}
+	EndGlobalSection
+EndGlobal
