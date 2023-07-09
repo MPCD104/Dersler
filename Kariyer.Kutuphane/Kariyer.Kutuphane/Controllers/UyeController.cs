@@ -10,9 +10,9 @@ namespace Kariyer.Kutuphane.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class KitaplarController : BaseController<IKitapManager, Kitap>
+    public class UyeController : BaseController<IUyeManager, Uye>
     {
-        public KitaplarController(KitapManager manager) : base(manager)
+        public UyeController(IUyeManager manager) : base(manager)
         {
         }
     }

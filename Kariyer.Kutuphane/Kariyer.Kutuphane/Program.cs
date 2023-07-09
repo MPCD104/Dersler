@@ -1,5 +1,6 @@
 using Kariyer.Kutuphane.Business;
 using Kariyer.Kutuphane.Business.Abstracts;
+using Kariyer.Kutuphane.Entities;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<IKitapManager,KitapManager>();
+builder.Services.AddSingleton<IUyeManager, UyeManager>();
+builder.Services.AddSingleton<IYayinEviManager, YayinEviManager>();
+builder.Services.AddSingleton<IYazarManager, YazarManager>();
+builder.Services.AddSingleton<IKutuphaneIslemleriManager, KutuphaneIslemleriManager>();
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

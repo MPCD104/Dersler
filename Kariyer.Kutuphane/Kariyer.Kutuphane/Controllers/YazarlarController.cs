@@ -4,15 +4,13 @@ using Kariyer.Kutuphane.Controllers.Base;
 using Kariyer.Kutuphane.Entities;
 using Microsoft.AspNetCore.Mvc;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
 namespace Kariyer.Kutuphane.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class KitaplarController : BaseController<IKitapManager, Kitap>
+    public class YazarlarController : BaseController<IYazarManager, Yazar>
     {
-        public KitaplarController(KitapManager manager) : base(manager)
+        public YazarlarController(IYazarManager manager) : base(manager)
         {
         }
     }
