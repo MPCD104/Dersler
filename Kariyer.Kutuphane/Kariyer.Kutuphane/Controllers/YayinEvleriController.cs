@@ -10,7 +10,7 @@ namespace Kariyer.Kutuphane.Controllers
     [ApiController]
     public class YayinEvleriController : BaseController<IYayinEviManager, YayinEvi>
     {
-        public YayinEvleriController(YayinEviManager yayinEviManager) : base(yayinEviManager)
+        public YayinEvleriController(IYayinEviManager yayinEviManager) : base(yayinEviManager)
         {
 
         }

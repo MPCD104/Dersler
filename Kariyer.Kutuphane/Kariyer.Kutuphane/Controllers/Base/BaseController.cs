@@ -22,7 +22,7 @@ namespace Kariyer.Kutuphane.Controllers.Base
 
         [HttpGet("{id}")]
         public TEntity Get(int id)
-        {
+        { 
             return manager.GetById(id);
         }
 

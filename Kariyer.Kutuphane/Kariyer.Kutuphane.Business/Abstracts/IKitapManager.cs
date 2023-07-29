@@ -2,7 +2,8 @@
 
 namespace Kariyer.Kutuphane.Business.Abstracts
 {
-    public interface IKitapManager : IBaseManager<Kitap>
+    public interface IKitapManager
     { 
+        List<Kitap> GetKitapList();
     }
 }

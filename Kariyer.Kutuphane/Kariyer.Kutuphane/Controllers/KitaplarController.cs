@@ -12,7 +12,7 @@ namespace Kariyer.Kutuphane.Controllers
     [ApiController]
     public class KitaplarController : BaseController<IKitapManager, Kitap>
     {
-        public KitaplarController(KitapManager manager) : base(manager)
+        public KitaplarController(IKitapManager manager) : base(manager)
         {
         }
     }

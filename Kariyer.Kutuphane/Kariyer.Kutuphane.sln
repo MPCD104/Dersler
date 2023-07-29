@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kariyer.Kutuphane", "Kariyer.Kutuphane\Kariyer.Kutuphane.csproj", "{48569E52-2B9A-45B5-A85B-8A448403BEFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kariyer.Kutuphane", "Kariyer.Kutuphane\Kariyer.Kutuphane.csproj", "{48569E52-2B9A-45B5-A85B-8A448403BEFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kariyer.Kutuphane.Entities", "Kariyer.Kutuphane.Entities\Kariyer.Kutuphane.Entities.csproj", "{96B46542-A9C8-484F-83AF-55602B6688F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kariyer.Kutuphane.Entities", "Kariyer.Kutuphane.Entities\Kariyer.Kutuphane.Entities.csproj", "{96B46542-A9C8-484F-83AF-55602B6688F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kariyer.Kutuphane.Business", "Kariyer.Kutuphane.Business\Kariyer.Kutuphane.Business.csproj", "{04284A15-09D4-4D61-9A12-2B80C25A8F0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kariyer.Kutuphane.Business", "Kariyer.Kutuphane.Business\Kariyer.Kutuphane.Business.csproj", "{04284A15-09D4-4D61-9A12-2B80C25A8F0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kariyer.Kutuphane.DataAccess", "Kariyer.Kutuphane.DataAccess\Kariyer.Kutuphane.DataAccess.csproj", "{BC8CDE4C-B865-4313-B374-1F18C99B23EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{04284A15-09D4-4D61-9A12-2B80C25A8F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04284A15-09D4-4D61-9A12-2B80C25A8F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04284A15-09D4-4D61-9A12-2B80C25A8F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC8CDE4C-B865-4313-B374-1F18C99B23EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8CDE4C-B865-4313-B374-1F18C99B23EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8CDE4C-B865-4313-B374-1F18C99B23EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8CDE4C-B865-4313-B374-1F18C99B23EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
